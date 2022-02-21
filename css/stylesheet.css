@@ -19,7 +19,7 @@ body{
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{
-	background-color: #a9a9a9;
+	background-color: #2f4f4f;
 }
 
 .navbar-collapse{
@@ -33,8 +33,8 @@ body{
 }
 
 .navbar-brand h1{
-	color: ;
-	font-family: 'Abril Fatface', cursive;
+	color: #555d50;
+	font-family: 'Bebas Neue', cursive;
 	font-weight: bolder;
 	font-size: 1.8em;
 }
@@ -45,7 +45,7 @@ body{
 }
 
 #nav-list a:hover{
-	color: ;
+	color: #708090;
 	background-color:  #fce29e;
 }
 
@@ -54,4 +54,36 @@ body{
 }
 
 /*END HEADER*/
+
+
+/*HOME PAGE*/
+
+#main-content{
+	width: 92%;
+	margin-bottom: 30px;
+}
+
+
+#main-content h2 {
+	font-size: 2.9em;
+	font-weight: bold;
+	margin-top: 30px;
+	margin-bottom: 50px;
+
+}
+
+
+#main-content h3{
+	font-size: 1.6em;
+	font-weight: bold;
+	margin-bottom: 1em;
+}
+
+#chicken-title,#beef-title,#sushi-title{
+	width: 100%;
+	padding: 20px;
+	background-color: ;
+	margin-bottom: 60px;
+	box-shadow: 0 0 80px #000000;
+}
 
