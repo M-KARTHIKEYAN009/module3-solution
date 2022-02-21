@@ -1,0 +1,15 @@
+body{
+	font-size: 20px;
+	color: #ffffff;
+	background-color: #008b8b;
+	font-family: 'Staatliches', cursive;
+}
+
+/*header style*/
+
+#header-nav{
+	background-color: #00ced1;
+	border-radius: 0px;
+	border: 0px;
+
+}
